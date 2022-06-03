@@ -5,7 +5,7 @@ import numpy as np
 
 
 #video
-cap =cv2.VideoCapture('carpark.mp4')                                      #video imported
+cap =cv2.VideoCapture('carpark.mp4')                                      #video imported......
 
 
 
